@@ -8,6 +8,7 @@
 Now that you're a team member you can join and start conversations on [Gitter](https://gitter.im/). Your Github account will be linked to Gitter and you can select this _SanDiego2016_ repository there to begin communicating with other members. You can also install Gitter's mobile app to engage on the go.
 
 * [Register for the Hackathon](http://bit.ly/SD2016Application)
+* [Direct link to the main Gitter room](https://gitter.im/smartcityio/SanDiego2016 )
 
 ##[Challenges](http://bit.ly/SD2016Challenges)
 
