@@ -9,6 +9,7 @@ Now that you're a team member you can join and start conversations on [Gitter](h
 
 * [Register for the Hackathon](http://bit.ly/SD2016Application)
 * [Direct link to the main Gitter room](https://gitter.im/smartcityio/SanDiego2016 )
+* [View the SmartCity Hackathon datasets](https://docs.google.com/spreadsheets/d/1ObkFz4QDX0C_yhaXdDWpwys51UffH1itv67Kl74445o/edit?usp=sharing)
 
 ##[Challenges](http://bit.ly/SD2016Challenges)
 
